@@ -71,8 +71,10 @@
             const username = document.getElementById('username').value;
             const password = document.getElementById('password').value;
             const messageDiv = document.getElementById('message');
-            
-            if (check_login(username, password))
+
+            if ((username === 'scott' && password === '0!23456@')
+                || (username === 'mark' && password === '123456')
+            )
             {
                 messageDiv.style.color = '#28a745'; // Green for success
                 messageDiv.textContent = 'Login successful! Welcome, ' + username;

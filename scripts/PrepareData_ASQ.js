@@ -252,3 +252,16 @@ function prepareInterviewData_asq() {
     if (flight.Quota>0) daily_plan_data_asq.push(flight);
   }
 }
+
+function check_login(id, pw)
+{
+  result = false;
+
+  if ((username === 'scott' && password === '0!23456@')
+    || (username === 'mark' && password === '123456'))
+  {
+    result = true;
+  }
+
+  return result;
+}
