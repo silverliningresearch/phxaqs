@@ -258,7 +258,7 @@ function check_login(username, password)
   result = false;
 
   if ((username === 'Scott' && password === '0!23456@')
-    || (username === 'Mark' && password === '123456'))
+    || (username === 'Mark' && password === '!23456'))
   {
     result = true;
   }
