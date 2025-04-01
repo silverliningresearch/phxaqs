@@ -51,6 +51,8 @@
             color: #d9534f; /* Red for errors, change to green (#28a745) for success if needed */
         }
     </style>
+    <script src="scripts/PrepareData_ASQ.js"></script>
+
 </head>
 <body>
     <div class="login-box">
@@ -72,13 +74,11 @@
             const password = document.getElementById('password').value;
             const messageDiv = document.getElementById('message');
 
-            if ((username === 'scott' && password === '0!23456@')
-                || (username === 'mark' && password === '123456')
-            )
+            if (check_login(username, password))
             {
-                messageDiv.style.color = '#28a745'; // Green for success
-                messageDiv.textContent = 'Login successful! Welcome, ' + username;
-                let url = "https://silverliningresearch.github.io/phxaqs/dpAbhrkxfsYaTJZw68j5QXDF";
+                // messageDiv.style.color = '#28a745'; // Green for success
+                // messageDiv.textContent = 'Login successful! Welcome, ' + username;
+                let url = "https://silverliningresearch.github.io/phxaqs/qtUGm79rw2KkMxbdSh6an3Zc";
                 window.location.href = url;
                 
             } else {

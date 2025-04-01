@@ -253,12 +253,12 @@ function prepareInterviewData_asq() {
   }
 }
 
-function check_login(id, pw)
+function check_login(username, password)
 {
   result = false;
 
-  if ((username === 'scott' && password === '0!23456@')
-    || (username === 'mark' && password === '123456'))
+  if ((username === 'Scott' && password === '0!23456@')
+    || (username === 'Mark' && password === '123456'))
   {
     result = true;
   }

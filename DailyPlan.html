@@ -51,6 +51,7 @@
             color: #d9534f; /* Red for errors, change to green (#28a745) for success if needed */
         }
     </style>
+    <script src="scripts/PrepareData_ASQ.js"></script>
 </head>
 <body>
     <div class="login-box">
@@ -74,8 +75,8 @@
             
             if (check_login(username, password))
             {
-                messageDiv.style.color = '#28a745'; // Green for success
-                messageDiv.textContent = 'Login successful! Welcome, ' + username;
+                // messageDiv.style.color = '#28a745'; // Green for success
+                // messageDiv.textContent = 'Login successful! Welcome, ' + username;
                 let url = "https://silverliningresearch.github.io/phxaqs/dpAbhrkxfsYaTJZw68j5QXDF";
                 window.location.href = url;
                 
