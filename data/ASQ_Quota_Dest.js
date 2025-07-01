@@ -1254,6 +1254,623 @@
   "Dest": "YYZ",
   "Quota": 6,
   "Quarter": "2025-Q2"
+ },
+
+
+
+
+
+
+
+  {
+  "Dest": "ABQ",
+  "Quota": 22,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "ANC",
+  "Quota": 3,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "ATL",
+  "Quota": 36,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "AUS",
+  "Quota": 25,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "AVL",
+  "Quota": 1,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "BFL",
+  "Quota": 5,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "BHM",
+  "Quota": 2,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "BNA",
+  "Quota": 18,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "BOI",
+  "Quota": 11,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "BOS",
+  "Quota": 17,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "BUF",
+  "Quota": 2,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "BUR",
+  "Quota": 20,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "BWI",
+  "Quota": 11,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "CDG",
+  "Quota": 4,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "CEZ",
+  "Quota": 1,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "CID",
+  "Quota": 3,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "CLD",
+  "Quota": 3,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "CLE",
+  "Quota": 8,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "CLT",
+  "Quota": 28,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "CMH",
+  "Quota": 9,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "CNY",
+  "Quota": 1,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "COS",
+  "Quota": 8,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "CUL",
+  "Quota": 1,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "CUN",
+  "Quota": 5,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "CVG",
+  "Quota": 5,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "DAL",
+  "Quota": 22,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "DCA",
+  "Quota": 11,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "DEN",
+  "Quota": 68,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "DFW",
+  "Quota": 48,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "DRO",
+  "Quota": 4,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "DSM",
+  "Quota": 4,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "DTW",
+  "Quota": 25,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "ELP",
+  "Quota": 14,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "EUG",
+  "Quota": 2,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "EWR",
+  "Quota": 22,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "FAT",
+  "Quota": 7,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "FLG",
+  "Quota": 4,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "FSD",
+  "Quota": 1,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "GDL",
+  "Quota": 6,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "GEG",
+  "Quota": 7,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "GJT",
+  "Quota": 4,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "HMO",
+  "Quota": 2,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "HNL",
+  "Quota": 14,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "HOU",
+  "Quota": 17,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "IAD",
+  "Quota": 9,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "IAH",
+  "Quota": 21,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "ICT",
+  "Quota": 1,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "IND",
+  "Quota": 11,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "JAX",
+  "Quota": 2,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "JFK",
+  "Quota": 23,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "KOA",
+  "Quota": 4,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "LAS",
+  "Quota": 53,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "LAX",
+  "Quota": 52,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "LBB",
+  "Quota": 1,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "LGB",
+  "Quota": 12,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "LHR",
+  "Quota": 11,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "LIH",
+  "Quota": 4,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "MAF",
+  "Quota": 1,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "MCI",
+  "Quota": 18,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "MCO",
+  "Quota": 14,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "MDW",
+  "Quota": 24,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "MEM",
+  "Quota": 5,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "MEX",
+  "Quota": 6,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "MFR",
+  "Quota": 3,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "MIA",
+  "Quota": 15,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "MKE",
+  "Quota": 9,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "MRY",
+  "Quota": 5,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "MSN",
+  "Quota": 3,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "MSP",
+  "Quota": 32,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "MSY",
+  "Quota": 4,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "MTY",
+  "Quota": 1,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "MZT",
+  "Quota": 1,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "OAK",
+  "Quota": 16,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "OGG",
+  "Quota": 7,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "OKC",
+  "Quota": 10,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "OMA",
+  "Quota": 12,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "ONT",
+  "Quota": 24,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "ORD",
+  "Quota": 48,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "PAE",
+  "Quota": 5,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "PDX",
+  "Quota": 30,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "PGA",
+  "Quota": 1,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "PHL",
+  "Quota": 22,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "PIT",
+  "Quota": 6,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "PSC",
+  "Quota": 3,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "PSP",
+  "Quota": 7,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "PVR",
+  "Quota": 7,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "PVU",
+  "Quota": 2,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "RDM",
+  "Quota": 3,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "RDU",
+  "Quota": 6,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "RNO",
+  "Quota": 20,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "SAF",
+  "Quota": 1,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "SAN",
+  "Quota": 51,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "SAT",
+  "Quota": 17,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "SBA",
+  "Quota": 7,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "SBP",
+  "Quota": 6,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "SCK",
+  "Quota": 1,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "SDF",
+  "Quota": 3,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "SEA",
+  "Quota": 55,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "SFO",
+  "Quota": 35,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "SGU",
+  "Quota": 3,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "SJC",
+  "Quota": 20,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "SJD",
+  "Quota": 11,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "SLC",
+  "Quota": 42,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "SMF",
+  "Quota": 27,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "SNA",
+  "Quota": 38,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "SOW",
+  "Quota": 1,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "STL",
+  "Quota": 16,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "STS",
+  "Quota": 3,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "TEX",
+  "Quota": 1,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "TIJ",
+  "Quota": 1,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "TPA",
+  "Quota": 8,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "TUL",
+  "Quota": 7,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "TUS",
+  "Quota": 11,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "TYS",
+  "Quota": 1,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "VEL",
+  "Quota": 1,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "XNA",
+  "Quota": 3,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "YEG",
+  "Quota": 1,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "YUL",
+  "Quota": 3,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "YUM",
+  "Quota": 4,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "YVR",
+  "Quota": 4,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "YYC",
+  "Quota": 8,
+  "Quarter": "2025-Q3"
+ },
+ {
+  "Dest": "YYZ",
+  "Quota": 5,
+  "Quarter": "2025-Q3"
  }
 ]    
 
