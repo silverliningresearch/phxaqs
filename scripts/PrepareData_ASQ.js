@@ -121,7 +121,7 @@ function prepareInterviewData_asq() {
   for (i = 0; i < dest_airline_quota_asq_temp.length; i++) {
     if (dest_airline_quota_asq_temp[i].Quarter == currentQuarter)
     {
-      if (dest_airline_quota_asq_temp[i].Quota>=4) //temp condition, requested on 4-Apr-24
+      //if (dest_airline_quota_asq_temp[i].Quota>=4) //temp condition, requested on 4-Apr-24
       {
         dest_airline_quota_asq.push(dest_airline_quota_asq_temp[i]);
       }
